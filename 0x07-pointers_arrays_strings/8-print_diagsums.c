@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * print_diagsums - prints the sums of the two diagonals of a square matrix
  * @a: 2d arrayof int
